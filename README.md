@@ -1,15 +1,15 @@
 ##How to use:
 [Linux]
-git clone https://github.com/MrKaylo/Fake-Info-Generator
-cd Fake-Info-Generator
-pip install -r requirements.txt
-python FakeInfoGenerator.py
+git clone https://github.com/MrKaylo/Fake-Info-Generator |
+ cd Fake-Info-Generator |
+ pip install -r requirements.txt |
+ python FakeInfoGenerator.py
 
 [Windows]
-go to https://github.com/MrKaylo/Fake-Info-Generator and download the zip and extract it
-open powershell and type cd /path/path/Fake-Info-Generator-Main
-pip install -r requirements.txt
-python FakeInfoGenerator.py
+go to https://github.com/MrKaylo/Fake-Info-Generator and download the zip and extract it | 
+ open powershell and type cd /path/path/Fake-Info-Generator-Main |
+ pip install -r requirements.txt |
+ python FakeInfoGenerator.py |
 
 Our email to contact:
 0el0kaylo0@gmail.com
